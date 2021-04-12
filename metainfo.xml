@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="C80357D5-502A-4EA2-828D-B8F942359092" version="0">
+<presentation availableOffline="1" guid="D6D31B65-728C-4B9D-AE6E-F54A0CB70AD4" version="0">
 	<info>
 		<title>SAMPLE-TALENT-EXAM-CLASS-VIII</title>
 		<description/>
 	</info>
-	<files index="id19" thumbnail="id15" totalSize="2459280">
+	<files index="id19" thumbnail="id15" totalSize="2459268">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
