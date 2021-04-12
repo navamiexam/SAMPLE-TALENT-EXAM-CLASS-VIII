@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="D091A37A-9E14-43DD-B00A-93DD32189D4F" version="0">
+<presentation availableOffline="1" guid="C80357D5-502A-4EA2-828D-B8F942359092" version="0">
 	<info>
-		<title>SAMPLE-TALENT-EXAM-CLASS-IX</title>
+		<title>SAMPLE-TALENT-EXAM-CLASS-VIII</title>
 		<description/>
 	</info>
-	<files index="id17" thumbnail="id13" totalSize="2389889">
+	<files index="id19" thumbnail="id15" totalSize="2459280">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
@@ -12,19 +12,21 @@
 		<file id="id4">data/fonts/fnt1.woff</file>
 		<file id="id5">data/fonts/fnt2.woff</file>
 		<file id="id6">data/fonts/fnt3.woff</file>
-		<file id="id7">data/fonts/fnt4.woff</file>
-		<file id="id8">data/html5-unsupported.html</file>
-		<file id="id9">data/html5.png</file>
-		<file id="id10">data/images/img-489a58eac82c7317c6d8145aa7502d4d9a68cf60.jpg</file>
-		<file id="id11">data/ismplayer/app_store2x.png</file>
-		<file id="id12">data/ismplayer/play.svg</file>
-		<file id="id13">data/ismplayer/preview.png</file>
-		<file id="id14">data/ismplayer/style.css</file>
-		<file id="id15">data/ismplayer/style_mini.css</file>
-		<file id="id16">data/player.js</file>
-		<file id="id17">index.html</file>
-		<file id="id18">ismplayer.html</file>
-		<file id="id19">preview.png</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-44a3d008ca5466e910d384a2ef76dfdd26fd07f2.jpg</file>
+		<file id="id10">data/images/img-4ed5440bcf919b3bc5ad3d63eb67945d4af4b7be.png</file>
+		<file id="id11">data/images/img-6620107ae1e4509a9bcc6780a75675dd3aabed8f.png</file>
+		<file id="id12">data/images/img-aad4d1f10a280a7cdd72cecd77db53d4105ef4da.png</file>
+		<file id="id13">data/ismplayer/app_store2x.png</file>
+		<file id="id14">data/ismplayer/play.svg</file>
+		<file id="id15">data/ismplayer/preview.png</file>
+		<file id="id16">data/ismplayer/style.css</file>
+		<file id="id17">data/ismplayer/style_mini.css</file>
+		<file id="id18">data/player.js</file>
+		<file id="id19">index.html</file>
+		<file id="id20">ismplayer.html</file>
+		<file id="id21">preview.png</file>
 	</files>
 </presentation>
 
